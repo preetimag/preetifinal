@@ -1,0 +1,67 @@
+﻿
+
+.header-top
+{
+background-color:black;
+height: 48px;
+color: white;        
+}
+
+.toppage
+{
+background-color:white;
+height: 0;
+
+}
+
+header
+{
+
+
+
+height: 82px;
+}
+.nav-bar
+{
+
+height:82px;
+}
+.nav-container
+{
+height:82px;
+
+background-color:red;
+}
+
+.header-left
+{
+    color:white;
+height:30px;
+text-align: center;
+    width: 812px;
+    margin-left: 150px;
+    margin-right: 4px;
+    margin-top: 0px;
+}
+
+
+
+.logo {
+    height: 49px;
+    width: 139px;
+   
+}
+
+
+.bat{
+font-family:sans-serif,Arial, Verdana;
+background-color:black;
+color:white;
+}
+
+
+.footer-copy
+{
+background-color:#FFC0CB
+}
+

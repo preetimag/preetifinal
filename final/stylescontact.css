@@ -1,0 +1,64 @@
+﻿
+
+.header-top
+{
+background-color:black;
+height:48px;
+color:white;
+}
+
+.toppage
+{
+background-color:white;
+height: 0;
+
+}
+
+header
+{
+
+
+
+height: 82px;
+}
+
+.nav-bar
+{
+
+height:82px;
+}
+.nav-container
+{
+height:82px;
+
+background-color:red;
+}
+
+.header-left
+{
+height:19px;
+text-align: center;
+    margin-left: 384px;
+    width: 217px;
+}
+
+.wrapper
+{
+
+color:white
+}
+
+.logo {
+    height: 64px;
+    width: 139px;
+    
+}
+
+
+
+
+.footer-copy
+{
+background-color:#FFC0CB
+}
+
